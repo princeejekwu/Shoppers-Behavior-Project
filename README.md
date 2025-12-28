@@ -1,4 +1,4 @@
-# Sh# SHOPPING BEHAVIOUR AND PREFERENCE
+#  SHOPPING BEHAVIOUR AND PREFERENCE
 
 This project basically captures how shoppers interact with products or stores—what they search, browse, add to carts, and purchase.The analysis tends to center on the shopping preference amoungs the various age grade, gender and the factors that influences their purchasing decisions such as location, size, season etc the typical fields include customer ID, Age, Gender, Item Purchase, Category, Location, purchase Amount etc. This project provides a detailed analysis and visualization built using **Excel** and **Power Bi** it helps reveal buying patterns.
 
