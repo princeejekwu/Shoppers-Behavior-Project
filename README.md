@@ -13,11 +13,11 @@ This project basically captures how shoppers interact with products or stores—
 
 5.Customer demographics insights
 
-6. Best Selling Product Category
+6.Best Selling Product Category
 
-7. Promotion And Discount Effectiveness
+7.Promotion And Discount Effectiveness
 
-8. Category With Highest Turnover
+8.Category With Highest Turnover
 
 
 ## TOOLS USESD
