@@ -27,7 +27,7 @@ This project basically captures how shoppers interact with products or stores—
 
  ## ANALYSIS WORKFLOW
 
- 1.Download dataset and kaggle and review column definitions
+ 1.Download dataset from kaggle and review column definitions
  
  2.clean and strcture data create custume colums for age category, revenue and frequency of purchase2 using excel formulars eg IFS Function.
  
@@ -39,7 +39,7 @@ This project basically captures how shoppers interact with products or stores—
   **Both dashboard includes**
  1. line chart, Bar Chart, Pie Chart, Peanut Chart for segmentation and performance
 
- 2. Power Bi DashBoard invludes: KPIcards for revenue matrics
+ 2. Power Bi DashBoard includes: KPIcards for revenue matrics
 
     
     ## KEY INSIGHTS
