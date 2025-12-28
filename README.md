@@ -55,13 +55,3 @@ This project basically captures how shoppers interact with products or stores—
 
   6. Non subscribers constituted about 74.18% in purchasing power while 25.82% are Non-subscribers which from my analysis are mostly males.
 
-
-
-
- 
-     
- 
-
-
-
-oppers-Behavior-Project
