@@ -54,4 +54,16 @@ This project basically captures how shoppers interact with products or stores—
   5. Clothes line sold the most for both male and female therefore it should be priotize for growth.
 
   6. Non subscribers constituted about 74.18% in purchasing power while 25.82% are Non-subscribers which from my analysis are mostly males.
+## Executive Summary
+This analysis examines customer purchasing behavior using demographic, transactional, and engagement data, including age, gender, product details, purchase value, subscription status, and buying frequency. The dataset provides a holistic view of how customers interact with products across locations, seasons, and promotional strategies.
+
+Key insights indicate that purchase behavior varies significantly by customer demographics and product categories, with certain age groups and genders showing higher purchase frequency and spend. Repeat purchases and frequency of purchases suggest a strong base of loyal customers, particularly among those with active subscriptions.
+
+Product-related factors such as item category, size, color, and season influence buying decisions, highlighting opportunities for targeted inventory planning and seasonal marketing. Customers using discounts and promo codes demonstrate increased purchase activity, indicating that promotional strategies are effective in driving sales volume.
+
+Shipping type and payment method preferences reveal patterns that can help optimize logistics and payment offerings, improving customer convenience and satisfaction. Additionally, review ratings correlate with repeat purchases, emphasizing the importance of product quality and customer experience.
+
+Overall, the dataset supports data-driven decisions in customer segmentation, personalized marketing, pricing strategies, and subscription growth, with a strong opportunity to increase revenue by focusing on high-value customers, effective promotions, and improved customer retention strategies.
+i am open for collaboration and partnership 
+you can contact me princeejekwu@gmail.com
 
